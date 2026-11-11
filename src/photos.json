@@ -1,0 +1,50 @@
+[
+  {
+    "src": "/photos/01.webp",
+    "thumb": "/photos/01-thumb.webp",
+    "w": 1350,
+    "h": 1800
+  },
+  {
+    "src": "/photos/02.webp",
+    "thumb": "/photos/02-thumb.webp",
+    "w": 1350,
+    "h": 1800
+  },
+  {
+    "src": "/photos/03.webp",
+    "thumb": "/photos/03-thumb.webp",
+    "w": 1200,
+    "h": 1800
+  },
+  {
+    "src": "/photos/04.webp",
+    "thumb": "/photos/04-thumb.webp",
+    "w": 1012,
+    "h": 1800
+  },
+  {
+    "src": "/photos/05.webp",
+    "thumb": "/photos/05-thumb.webp",
+    "w": 1013,
+    "h": 1800
+  },
+  {
+    "src": "/photos/06.webp",
+    "thumb": "/photos/06-thumb.webp",
+    "w": 1012,
+    "h": 1800
+  },
+  {
+    "src": "/photos/07.webp",
+    "thumb": "/photos/07-thumb.webp",
+    "w": 1012,
+    "h": 1800
+  },
+  {
+    "src": "/photos/08.webp",
+    "thumb": "/photos/08-thumb.webp",
+    "w": 1011,
+    "h": 1800
+  }
+]
